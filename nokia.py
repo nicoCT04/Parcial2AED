@@ -63,7 +63,7 @@ def imprimir_tabla_dp(tabla_dp):
 
 
 def main():
-    casos_de_prueba = [1, 2, 3, 5, 10]
+    casos_de_prueba = [1, 2, 3, 5]
 
     for longitud in casos_de_prueba:
         print(f"### n = {longitud} ###")

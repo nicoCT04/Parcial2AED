@@ -25,7 +25,7 @@ def hacer_sencillo(monto_centavos, denominaciones=DENOMINACIONES_CENTAVOS):
 
 
 def contar_monedas_totales(solucion):
-    return sum(cantidad for _, cantidad in solucion)
+    return sum(cantidad for moneda, cantidad in solucion)
 
 
 def imprimir_solucion(monto_centavos, solucion):
