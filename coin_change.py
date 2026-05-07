@@ -1,5 +1,4 @@
 # Problema 1 - Hacer Sencillo (Coin Change)
-# Análisis y Diseño de Algoritmos - UVG, Examen Parcial #2
 
 DENOMINACIONES_CENTAVOS = (25, 10, 5, 1)
 
